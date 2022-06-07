@@ -1,5 +1,4 @@
 import random
-print(3//2)
 max_numb = 100
 level = {
     '1': 3,
