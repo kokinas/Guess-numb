@@ -2,7 +2,7 @@ import random
 max_numb = 100
 level = {
     '1': 3,
-    '2': 5,
+    '2': 6,
     '3': 10
     }
 level_set = input('Введите уровень сложности :')
